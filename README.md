@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Riki-123
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning computer science
